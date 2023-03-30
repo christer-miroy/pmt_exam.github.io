@@ -1,4 +1,5 @@
 Database connection >> DB_DATABASE=pmt_laravel
+
 Run Laravel and Laravel Breeze (for authentication)
 1. php artisan serve
 2. npm run dev
